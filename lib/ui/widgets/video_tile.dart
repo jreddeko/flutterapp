@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:card_example/services/youtube/i_youtube_service.dart';
-import 'package:card_example/di/dependancy_injection.dart';
+import 'package:nghe_phap/services/youtube/i_youtube_service.dart';
+import 'package:nghe_phap/di/dependancy_injection.dart';
 
 class VideoTile extends StatelessWidget {
   final String _title;

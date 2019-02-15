@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:card_example/models/menu.dart';
-import 'package:card_example/utils/uidata.dart';
+import 'package:nghe_phap/models/menu.dart';
+import 'package:nghe_phap/utils/uidata.dart';
 
 class MenuViewModel {
   List<Menu> menuItems;

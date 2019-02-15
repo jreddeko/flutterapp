@@ -1,8 +1,8 @@
 import 'dart:async';
-import 'package:card_example/services/network_service.dart';
-import 'package:card_example/services/rest_client.dart';
-import 'package:card_example/services/youtube/i_youtube_service.dart';
-import 'package:card_example/utils/uidata.dart';
+import 'package:nghe_phap/services/network_service.dart';
+import 'package:nghe_phap/services/rest_client.dart';
+import 'package:nghe_phap/services/youtube/i_youtube_service.dart';
+import 'package:nghe_phap/utils/uidata.dart';
 import 'package:flutter_youtube/flutter_youtube.dart';
 import 'package:googleapis/youtube/v3.dart';
 import 'package:googleapis_auth/auth_io.dart';

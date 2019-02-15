@@ -1,4 +1,4 @@
-import 'package:card_example/services/rest_client.dart';
+import 'package:nghe_phap/services/rest_client.dart';
 
 abstract class NetworkService {
   RestClient rest;

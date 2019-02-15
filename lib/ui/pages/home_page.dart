@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:card_example/ui/pages/video_page2.dart';
+import 'package:nghe_phap/ui/pages/video_page2.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key}) : super(key: key);

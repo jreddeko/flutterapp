@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:card_example/ui/pages/home_page.dart';
+import 'package:nghe_phap/ui/pages/home_page.dart';
 
 void main() => runApp(MyApp());
 

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:card_example/services/youtube/i_youtube_service.dart';
-import 'package:card_example/di/dependancy_injection.dart';
+import 'package:nghe_phap/services/youtube/i_youtube_service.dart';
+import 'package:nghe_phap/di/dependancy_injection.dart';
 import 'package:googleapis/youtube/v3.dart';
-import 'package:card_example/utils/uidata.dart';
-import 'package:card_example/ui/widgets/video_tile.dart';
+import 'package:nghe_phap/utils/uidata.dart';
+import 'package:nghe_phap/ui/widgets/video_tile.dart';
 import 'package:timeago/timeago.dart' as timeago;
 
 class VideoPage1 extends StatefulWidget {

@@ -1,6 +1,6 @@
-import 'package:card_example/services/youtube/i_youtube_service.dart';
-import 'package:card_example/services/youtube/youtube_service.dart';
-import 'package:card_example/services/rest_client.dart';
+import 'package:nghe_phap/services/youtube/i_youtube_service.dart';
+import 'package:nghe_phap/services/youtube/youtube_service.dart';
+import 'package:nghe_phap/services/rest_client.dart';
 
 enum Flavor { MOCK, PRO }
 

@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:card_example/services/network_service_response.dart';
+import 'package:nghe_phap/services/network_service_response.dart';
 import 'package:http/http.dart' as http;
 
 class RestClient {
